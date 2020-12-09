@@ -18,8 +18,11 @@ namespace AdventOfCode2020
             // Console.WriteLine(Day4.PartOne());
             // Console.WriteLine(Day4.PartTwo());
             
-            Console.WriteLine(Day5.PartOne());
-            Console.WriteLine(Day5.PartTwo());
+            // Console.WriteLine(Day5.PartOne());
+            // Console.WriteLine(Day5.PartTwo());
+            
+            Console.WriteLine(Day6.PartOne());
+            Console.WriteLine(Day6.PartTwo());
         }
     }
 }
